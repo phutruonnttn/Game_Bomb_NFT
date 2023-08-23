@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0746188-eb85-4992-b8a4-a827e1df3e3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connectMetamaskGUI/dist/index.47ca9330.css" beforeDir="false" afterPath="$PROJECT_DIR$/../connectMetamaskGUI/dist/index.47ca9330.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/bitzero.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/bitzero.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serverAPI/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../serverAPI/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serverAPI/helper/getBalance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../serverAPI/helper/getBalance.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../serverAPI/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../serverAPI/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GyoFJeK1zvsZb42rAdziunyhmz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="model.user" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="logState" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CompletableFuture2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nft.web3.CompletableFuture2" />
+      <module name="team_2_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nft.web3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFuture5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nft.web3.CompletableFuture5" />
+      <module name="team_2_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nft.web3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFuture6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nft.web3.CompletableFuture6" />
+      <module name="team_2_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nft.web3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="bitzero.server.Main" />
+      <module name="team_2_server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nft.web3.testFuture" />
+      <module name="team_2_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nft.web3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testPost" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nft.web3.testPost" />
+      <module name="team_2_server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nft.web3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.testPost" />
+      <item itemvalue="Application.testFuture" />
+      <item itemvalue="Application.CompletableFuture2" />
+      <item itemvalue="Application.CompletableFuture5" />
+      <item itemvalue="Application.CompletableFuture6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompletableFuture5" />
+        <item itemvalue="Application.testPost" />
+        <item itemvalue="Application.CompletableFuture6" />
+        <item itemvalue="Application.CompletableFuture2" />
+        <item itemvalue="Application.testFuture" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0746188-eb85-4992-b8a4-a827e1df3e3d" name="Default Changelist" comment="" />
+      <created>1667370079976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667370079976</updated>
+      <workItem from="1667370082885" duration="6604000" />
+      <workItem from="1667794412986" duration="255000" />
+      <workItem from="1667795794685" duration="3536000" />
+      <workItem from="1667809822061" duration="439000" />
+      <workItem from="1667810348715" duration="2578000" />
+      <workItem from="1667878435195" duration="24500000" />
+      <workItem from="1667930304321" duration="3046000" />
+      <workItem from="1667957448309" duration="30596000" />
+      <workItem from="1668009645173" duration="32996000" />
+      <workItem from="1669023501254" duration="2432000" />
+      <workItem from="1672363490535" duration="11763000" />
+      <workItem from="1672725383212" duration="2257000" />
+      <workItem from="1672729208485" duration="4236000" />
+      <workItem from="1672733493531" duration="5274000" />
+      <workItem from="1672763970022" duration="818000" />
+      <workItem from="1672797027063" duration="7063000" />
+      <workItem from="1672813550631" duration="319000" />
+      <workItem from="1672829986853" duration="168000" />
+      <workItem from="1672889482295" duration="2520000" />
+      <workItem from="1673006549471" duration="330000" />
+      <workItem from="1673007002696" duration="397000" />
+      <workItem from="1673231749362" duration="1474000" />
+      <workItem from="1673327780752" duration="18000" />
+      <workItem from="1673338114449" duration="1785000" />
+      <workItem from="1687765946561" duration="402000" />
+      <workItem from="1687766361012" duration="106000" />
+      <workItem from="1687766473461" duration="1116000" />
+      <workItem from="1687767626249" duration="595000" />
+      <workItem from="1687770955379" duration="795000" />
+      <workItem from="1687772768138" duration="1266000" />
+      <workItem from="1687775026761" duration="258000" />
+      <workItem from="1687775715176" duration="232000" />
+      <workItem from="1687793262413" duration="607000" />
+      <workItem from="1687795731133" duration="590000" />
+      <workItem from="1687847853025" duration="1349000" />
+      <workItem from="1687850814583" duration="1213000" />
+      <workItem from="1687874058002" duration="4822000" />
+      <workItem from="1687922865000" duration="13369000" />
+      <workItem from="1687947978392" duration="543000" />
+      <workItem from="1687949994076" duration="658000" />
+      <workItem from="1687954470988" duration="1913000" />
+      <workItem from="1688008481034" duration="7023000" />
+      <workItem from="1688029210567" duration="5850000" />
+      <workItem from="1688052258266" duration="4931000" />
+      <workItem from="1688092957666" duration="11664000" />
+      <workItem from="1688201250459" duration="12381000" />
+      <workItem from="1688215690142" duration="183000" />
+      <workItem from="1688229732229" duration="2643000" />
+      <workItem from="1688293608853" duration="5585000" />
+      <workItem from="1688311021701" duration="2416000" />
+      <workItem from="1688313493428" duration="2562000" />
+      <workItem from="1688372247429" duration="7496000" />
+      <workItem from="1688393859667" duration="5849000" />
+      <workItem from="1688440337860" duration="1941000" />
+      <workItem from="1688570345171" duration="3701000" />
+      <workItem from="1688613605210" duration="1297000" />
+      <workItem from="1688629399176" duration="16858000" />
+      <workItem from="1688648170943" duration="3655000" />
+      <workItem from="1688712302858" duration="15686000" />
+      <workItem from="1688732551697" duration="2963000" />
+      <workItem from="1688747834760" duration="5008000" />
+      <workItem from="1688907416250" duration="9558000" />
+      <workItem from="1688923087253" duration="1309000" />
+      <workItem from="1688961940225" duration="2818000" />
+      <workItem from="1688972527148" duration="1917000" />
+      <workItem from="1689048271269" duration="6000" />
+      <workItem from="1689048305185" duration="6606000" />
+      <workItem from="1689146129297" duration="1625000" />
+      <workItem from="1689214104842" duration="10701000" />
+      <workItem from="1689303114123" duration="8585000" />
+      <workItem from="1689411495123" duration="6838000" />
+      <workItem from="1689444735732" duration="2137000" />
+      <workItem from="1689498186383" duration="15076000" />
+      <workItem from="1689559446233" duration="20998000" />
+      <workItem from="1689662217116" duration="14683000" />
+      <workItem from="1689678255649" duration="1569000" />
+      <workItem from="1689691396106" duration="1587000" />
+      <workItem from="1689735488734" duration="8178000" />
+      <workItem from="1689766596556" duration="2030000" />
+      <workItem from="1689776391355" duration="9453000" />
+      <workItem from="1689826949394" duration="2397000" />
+      <workItem from="1689865183660" duration="830000" />
+      <workItem from="1691584118216" duration="1007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="9a14425d-b031-44cf-a661-580a7109fd93">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/TruongNP - ZPS/Desktop/BombItNFT/server/src/main/java/battle" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="9a14425d-b031-44cf-a661-580a7109fd93" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/cmd/send/demo/ResponseGetChestInfo.java</url>
+          <line>9</line>
+          <properties class="cmd.send.demo.ResponseGetChestInfo">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,98 @@
+{
+    "project_type": "javascript",
+    "debugMode": 1,
+    "showFPS": true,
+    "frameRate": 60,
+    "id": "gameCanvas",
+    "renderMode": 0,
+    "engineDir": "frameworks/cocos2d-html5",
+    "modules": [
+        "cocos2d",
+        "extensions",
+        "external"
+    ],
+    "jsListOrder": [
+        "src/data/**/*.js",
+        "src/framework/**/*.js",
+        "src/gui/screen/**/*.js",
+        "src/base/*.js",
+        "src/base/**/*.js",
+        "src/config/**/*.js",
+        "src/modules1/manager/*.js",
+        "src/modules1/popup/**/*.js",
+        "src/**/*.js"
+    ],
+    "jsList": [
+        "frameworks/cocos2d-html5/cocos2d/kazmath/mat4.js",
+        "frameworks/cocos2d-html5/cocos2d/kazmath/SIMDPolyfill.js",
+
+        "src/data/Resource.js",
+        "src/data/ResourceAnimation.js",
+        "src/framework/AnimationMgr.js",
+        "src/framework/Framework.js",
+        "src/framework/GUI.js",
+        "src/framework/libs/aes.js",
+        "src/framework/libs/crypt.js",
+        "src/framework/libs/md5.js",
+        "src/framework/libs/signals.js",
+        "src/framework/libs/underscore.js",
+        "src/framework/Localization.js",
+        "src/framework/Network.js",
+        "src/framework/PoolObject.js",
+        "src/framework/StringUtils.js",
+        "src/framework/UserData.js",
+        "src/base/Resource.js",
+        "src/base/UIFactory.js",
+        "src/base/network/GameClient.js",
+        "src/base/network/InPacketFactory.js",
+        "src/config/@global/ScreenConfig.js",
+        "src/config/Error.js",
+        "src/config/CMD.js",
+        "src/config/GameConfig.js",
+
+        "src/modules/LogState/LogState.js",
+        "src/modules/User/User.js",
+
+        "src/modules/Battle/Logic/ActionBattle/ActionBattle.js",
+
+        "src/modules/PacketHandler/BattleController.js",
+        "src/modules/PacketHandler/RootHandler.js",
+        "src/modules/PacketHandler/UserController.js",
+        "src/modules/InPacket.js",
+        "src/modules/OutPacket.js",
+
+        "src/modules/Utils/AnimatedSprite.js",
+        "src/modules/Utils/String.js",
+        "src/modules/Utils/Number.js",
+        "src/modules/Utils/Utils.js",
+
+        "src/modules/Lobby/SkinConfig.js",
+        "src/modules/Lobby/SkinInCard.js",
+        "src/modules/Lobby/LobbyGUI.js",
+
+        "src/modules/Login/LoginController.js",
+        "src/modules/Login/LoginScreen.js",
+
+        "src/modules/Battle/Data/MapConfig.js",
+        "src/modules/Battle/Data/KeyboardConfig.js",
+        "src/modules/Battle/Data/CharacterConfig.js",
+        "src/modules/Battle/Data/WeaponsConfig.js",
+
+        "src/modules/Battle/Logic/RandomCustom.js",
+        "src/modules/Battle/Logic/Map/MapMgr.js",
+        "src/modules/Battle/Logic/Character/Character.js",
+        "src/modules/Battle/Logic/Weapons/Weapon.js",
+        "src/modules/Battle/Logic/Weapons/Bomb/Bomb.js",
+        "src/modules/Battle/Logic/Weapons/Bomb/BombWeapon.js",
+        "src/modules/Battle/Logic/Weapons/Hammer/Hammer.js",
+        "src/modules/Battle/Logic/Weapons/Gun/Bullet.js",
+        "src/modules/Battle/Logic/Weapons/Gun/Gun.js",
+        "src/modules/Battle/Logic/Item/Item.js",
+
+        "src/modules/Battle/GUI/GameScene.js",
+        "src/modules/Battle/GUI/GameGUI.js",
+        "src/modules/Battle/GUI/InfoGUI.js",
+        "src/modules/Battle/GUI/ControlPanel.js",
+        "src/modules/Battle/GUI/Joystick.js"
+    ]
+}

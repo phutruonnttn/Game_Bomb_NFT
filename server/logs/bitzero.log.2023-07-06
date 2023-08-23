@@ -1,0 +1,4 @@
+06 Jul 2023 15:33:20,025 WARN  [EngineWriter-3] bitzero.core.s     - Socket closed during write operation for session: { Id: 1, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:50350 }
+06 Jul 2023 15:38:34,455 WARN  [EngineWriter-3] bitzero.core.s     - Error during write. Session: { Id: 4, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:50395 }
+06 Jul 2023 17:09:13,213 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+06 Jul 2023 18:28:04,065 WARN  [EngineWriter-4] bitzero.core.s     - Socket closed during write operation for session: { Id: 1, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:60734 }

@@ -1,0 +1,38 @@
+13 Jul 2023 09:18:00,013 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+13 Jul 2023 09:19:15,475 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+13 Jul 2023 09:20:42,262 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+13 Jul 2023 09:25:04,626 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+13 Jul 2023 09:35:12,409 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+13 Jul 2023 09:35:58,017 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+13 Jul 2023 09:36:31,296 WARN  [BZ-Alpha ShutdownHook] server.core.BZShutdownHook     - BZ-Alpha is shutting down. The process may take a few seconds...
+15 Jul 2023 16:45:53,753 WARN  [bitzero.server.controllers.ExtensionController-2] server.controllers.ExtensionController     - Slow  Extension call executed : 3113.9883in Cmd 1000
+15 Jul 2023 16:46:52,345 WARN  [bitzero.server.controllers.ExtensionController-2] server.controllers.ExtensionController     - Slow  Extension call executed : 1498.3881in Cmd 1000
+15 Jul 2023 16:49:24,302 WARN  [bitzero.server.controllers.ExtensionController-4] server.controllers.ExtensionController     - Slow  Extension call executed : 1261.6885in Cmd 1000
+15 Jul 2023 16:49:29,811 WARN  [bitzero.server.controllers.ExtensionController-6] server.controllers.ExtensionController     - Slow  Extension call executed : 1231.7387in Cmd 1000
+15 Jul 2023 16:49:59,828 WARN  [bitzero.server.controllers.ExtensionController-8] server.controllers.ExtensionController     - Slow  Extension call executed : 1214.433in Cmd 1000
+15 Jul 2023 16:58:54,144 WARN  [bitzero.server.controllers.ExtensionController-4] server.controllers.ExtensionController     - Slow  Extension call executed : 1269.5383in Cmd 1000
+15 Jul 2023 16:58:54,888 WARN  [bitzero.server.controllers.ExtensionController-2] server.controllers.ExtensionController     - Slow  Extension call executed : 2517.277901in Cmd 1000
+15 Jul 2023 16:58:54,956 WARN  [bitzero.server.controllers.ExtensionController-6] server.controllers.ExtensionController     - Slow  Extension call executed : 1145.8843in Cmd 1000
+15 Jul 2023 16:58:56,512 WARN  [bitzero.server.controllers.ExtensionController-8] server.controllers.ExtensionController     - Slow  Extension call executed : 1815.771099in Cmd 1000
+15 Jul 2023 17:00:27,123 WARN  [bitzero.server.controllers.ExtensionController-9] server.controllers.ExtensionController     - Slow  Extension call executed : 1147.6662in Cmd 1000
+15 Jul 2023 17:00:28,346 WARN  [bitzero.server.controllers.ExtensionController-1] server.controllers.ExtensionController     - Slow  Extension call executed : 1073.7138in Cmd 1000
+15 Jul 2023 17:00:28,719 WARN  [bitzero.server.controllers.ExtensionController-5] server.controllers.ExtensionController     - Slow  Extension call executed : 1128.9111in Cmd 1000
+15 Jul 2023 17:00:29,377 WARN  [bitzero.server.controllers.ExtensionController-7] server.controllers.ExtensionController     - Slow  Extension call executed : 1060.6306in Cmd 1000
+15 Jul 2023 17:00:29,610 WARN  [bitzero.server.controllers.ExtensionController-6] server.controllers.ExtensionController     - Slow  Extension call executed : 1065.5614in Cmd 1000
+15 Jul 2023 17:00:30,401 WARN  [bitzero.server.controllers.ExtensionController-9] server.controllers.ExtensionController     - Slow  Extension call executed : 1126.6178in Cmd 1000
+15 Jul 2023 17:00:30,614 WARN  [bitzero.server.controllers.ExtensionController-3] server.controllers.ExtensionController     - Slow  Extension call executed : 1144.137699in Cmd 1000
+15 Jul 2023 17:02:46,989 WARN  [bitzero.server.controllers.ExtensionController-2] server.controllers.ExtensionController     - Slow  Extension call executed : 1496.4055in Cmd 1000
+15 Jul 2023 17:22:39,487 WARN  [bitzero.server.controllers.ExtensionController-2] server.controllers.ExtensionController     - Slow  Extension call executed : 1562.2037in Cmd 1000
+15 Jul 2023 17:22:39,803 WARN  [bitzero.server.controllers.ExtensionController-3] server.controllers.ExtensionController     - Slow  Extension call executed : 1148.6473in Cmd 1000
+15 Jul 2023 17:22:40,654 WARN  [bitzero.server.controllers.ExtensionController-5] server.controllers.ExtensionController     - Slow  Extension call executed : 1092.6256in Cmd 1000
+15 Jul 2023 17:22:41,437 WARN  [bitzero.server.controllers.ExtensionController-7] server.controllers.ExtensionController     - Slow  Extension call executed : 1102.5286in Cmd 1000
+15 Jul 2023 17:25:00,595 WARN  [bitzero.server.controllers.ExtensionController-6] server.controllers.ExtensionController     - Slow  Extension call executed : 1187.9424in Cmd 1000
+15 Jul 2023 17:53:51,444 WARN  [bitzero.server.controllers.ExtensionController-2] server.controllers.ExtensionController     - Slow  Extension call executed : 1602.0968in Cmd 1000
+15 Jul 2023 17:53:51,514 WARN  [bitzero.server.controllers.ExtensionController-4] server.controllers.ExtensionController     - Slow  Extension call executed : 1218.1339in Cmd 1000
+15 Jul 2023 17:53:52,287 WARN  [bitzero.server.controllers.ExtensionController-6] server.controllers.ExtensionController     - Slow  Extension call executed : 1256.9953in Cmd 1000
+15 Jul 2023 17:53:53,027 WARN  [bitzero.server.controllers.ExtensionController-8] server.controllers.ExtensionController     - Slow  Extension call executed : 1205.0044in Cmd 1000
+15 Jul 2023 17:53:58,482 WARN  [bitzero.server.controllers.ExtensionController-5] server.controllers.ExtensionController     - Slow  Extension call executed : 1098.3551in Cmd 1000
+15 Jul 2023 18:05:09,717 WARN  [EngineWriter-1] bitzero.core.s     - Socket closed during write operation for session: { Id: 1, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:49567 }
+15 Jul 2023 18:05:09,718 WARN  [EngineWriter-2] bitzero.core.s     - Socket closed during write operation for session: { Id: 2, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:49587 }
+15 Jul 2023 18:05:09,720 WARN  [EngineWriter-3] bitzero.core.s     - Socket closed during write operation for session: { Id: 3, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:49609 }
+15 Jul 2023 18:05:09,723 WARN  [EngineWriter-4] bitzero.core.s     - Socket closed during write operation for session: { Id: 4, Type: DEFAULT, Logged: Yes, IP: 127.0.0.1:49630 }

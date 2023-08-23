@@ -1,0 +1,430 @@
+{
+  "ID": "b5063495-b26a-4fcd-b082-79b4a71b1ff3",
+  "Version": "3.10.0.0",
+  "Name": "GameInfoNode",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 19,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": -139,
+            "Scale9OriginY": -112,
+            "Scale9Width": 278,
+            "Scale9Height": 224,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -150.0,
+            "RightMargin": -150.0,
+            "TopMargin": -75.0,
+            "BottomMargin": -75.0,
+            "Tag": 20,
+            "Children": [
+              {
+                "FontSize": 24,
+                "LabelText": "ID:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/SVN-Supercell Magic.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 92.6989,
+                  "Y": 101.1344
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 248,
+                  "G": 248,
+                  "B": 248
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.309,
+                  "Y": 0.6742
+                },
+                "PreSize": {
+                  "X": 0.16,
+                  "Y": 0.22
+                },
+                "LeftMargin": 68.6989,
+                "RightMargin": 183.3011,
+                "TopMargin": 32.3656,
+                "BottomMargin": 84.6344,
+                "Tag": 24,
+                "ActionTag": 1101044293,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 33.0
+                },
+                "Name": "idLabel",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lobby/lobby_box.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 13,
+                "Scale9Width": 48,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 197.9885,
+                  "Y": 100.4175
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.66,
+                  "Y": 0.6694
+                },
+                "PreSize": {
+                  "X": 0.4333,
+                  "Y": 0.2667
+                },
+                "LeftMargin": 132.9885,
+                "RightMargin": 37.0115,
+                "TopMargin": 29.5825,
+                "BottomMargin": 80.4175,
+                "Tag": 22,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "1",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.44,
+                      "ScaleY": 0.4866
+                    },
+                    "Position": {
+                      "X": 64.2661,
+                      "Y": 20.2747
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 230,
+                      "G": 230,
+                      "B": 250
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4944,
+                      "Y": 0.5069
+                    },
+                    "PreSize": {
+                      "X": 0.1077,
+                      "Y": 0.825
+                    },
+                    "LeftMargin": 58.1061,
+                    "RightMargin": 57.8939,
+                    "TopMargin": 2.7831,
+                    "BottomMargin": 4.2169,
+                    "Tag": 38,
+                    "ActionTag": 1108237355,
+                    "Size": {
+                      "X": 14.0,
+                      "Y": 33.0
+                    },
+                    "Name": "idTxt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1356809461,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 40.0
+                },
+                "Name": "idBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 24,
+                "LabelText": "Time:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/SVN-Supercell Magic.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 71.6986,
+                  "Y": 50.4173
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 248,
+                  "G": 248,
+                  "B": 248
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.239,
+                  "Y": 0.3361
+                },
+                "PreSize": {
+                  "X": 0.3,
+                  "Y": 0.22
+                },
+                "LeftMargin": 26.6986,
+                "RightMargin": 183.3014,
+                "TopMargin": 83.0827,
+                "BottomMargin": 33.9173,
+                "Tag": 39,
+                "ActionTag": -776194653,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 33.0
+                },
+                "Name": "timeLabel",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lobby/lobby_box.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 46,
+                "Scale9OriginY": 13,
+                "Scale9Width": 48,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 197.9885,
+                  "Y": 49.7004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.66,
+                  "Y": 0.3313
+                },
+                "PreSize": {
+                  "X": 0.4333,
+                  "Y": 0.2667
+                },
+                "LeftMargin": 132.9885,
+                "RightMargin": 37.0115,
+                "TopMargin": 80.2996,
+                "BottomMargin": 29.7004,
+                "Tag": 40,
+                "Children": [
+                  {
+                    "FontSize": 24,
+                    "LabelText": "5:00",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/SVN-Supercell Magic.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.44,
+                      "ScaleY": 0.4866
+                    },
+                    "Position": {
+                      "X": 64.2661,
+                      "Y": 20.2747
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 230,
+                      "G": 230,
+                      "B": 250
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4944,
+                      "Y": 0.5069
+                    },
+                    "PreSize": {
+                      "X": 0.6077,
+                      "Y": 0.825
+                    },
+                    "LeftMargin": 29.5061,
+                    "RightMargin": 21.4939,
+                    "TopMargin": 2.7831,
+                    "BottomMargin": 4.2169,
+                    "Tag": 41,
+                    "ActionTag": 1218023440,
+                    "Size": {
+                      "X": 79.0,
+                      "Y": 33.0
+                    },
+                    "Name": "timeTxt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1058474261,
+                "Size": {
+                  "X": 130.0,
+                  "Y": 40.0
+                },
+                "Name": "timeBg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 413616665,
+            "Size": {
+              "X": 300.0,
+              "Y": 150.0
+            },
+            "Name": "cardInfo",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "font/SVN-Supercell Magic.ttf",
+        "lobby/lobby_box.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

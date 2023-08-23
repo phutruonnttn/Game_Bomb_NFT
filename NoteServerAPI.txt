@@ -1,0 +1,16 @@
+1. Khi deploy 3 smart contract (ERC20, swap, ingame) muốn dùng đc swap với 
+ingame thì phải add white list addr của 2 sm đó vào ERC20
+
+2. Muốn ingame dùng được buySkin phải transferOwner sang cho ingame addr trong ERC1155
+
+3. Dùng Swap thì phải setUpRate trước
+
+4. Ingame contract join game thì không cần làm gì nhưng muốn finish game thì 
+ví đó phải đc add vào white list trước 
+
+5. Link api: http://localhost:3000/docs?fbclid=IwAR10q0LSpjMGeU0Tq2ADXmtk56_kOvxbilUh8wRYdscByHaX0rypmIgfiJs#/
+
+6. Lỗi RPC có thể đổi sang: (đã đổi sang dùng zk EVM)
+	- https://rpc-mumbai.matic.today 3 or
+	- https://matic-mumbai.chainstacklabs.com 2 or
+	- https://rpc-mumbai.maticvigil.com 1

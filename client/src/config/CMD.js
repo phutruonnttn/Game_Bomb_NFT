@@ -1,0 +1,24 @@
+
+
+var gv = gv || {};
+
+gv.CMD = gv.CMD ||{};
+gv.CMD.PACKET_ERROR = -1
+gv.CMD.HAND_SHAKE = 0;
+gv.CMD.USER_LOGIN = 1;
+
+// Lobby
+gv.CMD.USER_INFO = 1000;
+gv.CMD.CHANGE_SKIN = 1001;
+gv.CMD.BUY_SKIN = 1002;
+
+// Matching
+gv.CMD.FIND_MATCH = 3000;
+gv.CMD.CANCLE_MATCH = 3001;
+
+// Battle
+gv.CMD.LOOP_MAX = 4000;
+gv.CMD.MOVE = 4001;
+gv.CMD.ATTACK = 4002;
+gv.CMD.GET_ITEM = 4003;
+gv.CMD.END_BATTLE = 4004;
